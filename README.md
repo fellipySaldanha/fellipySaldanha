@@ -1,15 +1,34 @@
-Tenho experiência com desenvolvimento Fullstack, atuando principalmente com sistema Salesforce realizando desenvolvimento em Apex (Triggers, integração de sistemas (REST, SOAP), Classes de teste, etc), componentes em Lightning Web Components e Aura, VisualForce Page e ferramentas declarativas (Approvals, Process Builder, Workflow, Flow Builder, etc). 
-Possuo conhecimento também em Java, Spring, JavaScript, Node, React, HTML, CSS e Git.
+## 👋 Hello! Welcome to my Github profile
 
-<div style="display:flex;justify-content: space-between;align-items: center;">
-<img src="https://user-images.githubusercontent.com/43252661/179642006-cbbef44b-c10b-4cde-8e33-450553655c57.png" style="width:50px;" />
-<img src="https://user-images.githubusercontent.com/43252661/179642485-050b595a-437f-4163-8895-09be64e94853.png" style="width:50px;" />
+<p>I am back-end developer work currently with Salesforce system</p>
+
+### Tools and Technologies
+
 <div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
+</div>
+          
+### Studying            
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40"/>       
+</div>
+          
 </br>
 
-**Certificações:**
+### Certifications:
 
 - Salesforce Certified Platform App Builder - Salesforce
 - Salesforce Certified Platform Developer I - Salesforce
 - Introduction to Programming Using JavaScript - Microsoft
 - Introduction to Programming Using HTML and CSS - Microsoft
+
+<a href="https://br.linkedin.com/in/luiz-fellipy-saldanha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
