@@ -25,7 +25,7 @@
 </br>
 
 ### Certifications:
-
+- Salesforce Certified JavaScript developer I
 - Salesforce Certified Platform App Builder - Salesforce
 - Salesforce Certified Platform Developer I - Salesforce
 - Introduction to Programming Using JavaScript - Microsoft
