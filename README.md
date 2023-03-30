@@ -25,6 +25,7 @@
 </br>
 
 ### Certifications:
+- Sharing and Visibility Architect - Salesforce
 - JavaScript Developer I - Salesforce
 - Platform App Builder - Salesforce
 - Platform Developer I - Salesforce
