@@ -29,6 +29,7 @@
 - JavaScript Developer I - Salesforce
 - Platform App Builder - Salesforce
 - Platform Developer I - Salesforce
+- Associate - Salesforce
 - Introduction to Programming Using JavaScript - Microsoft
 - Introduction to Programming Using HTML and CSS - Microsoft
 
