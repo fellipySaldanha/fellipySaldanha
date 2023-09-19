@@ -25,6 +25,12 @@
           
 </br>
 
+<div align="left">
+  
+[![Kipper top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FellipySaldanha&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+  
+ </div>
+
 ### Certifications:
 - Sharing and Visibility Architect - Salesforce
 - JavaScript Developer I - Salesforce
