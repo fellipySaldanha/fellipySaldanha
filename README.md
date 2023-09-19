@@ -27,7 +27,7 @@
 
 <div align="left">
   
-[![Kipper top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FellipySaldanha&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+[![Kipper top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FellipySaldanha&theme=blue-white&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
  </div>
 
